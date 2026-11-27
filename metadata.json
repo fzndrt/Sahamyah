@@ -1,0 +1,6 @@
+{
+  "name": "Pilar IDX — Swing Screener & Exit Alert",
+  "description": "Terminal analisis teknikal swing trading IHSG/IDX dengan rencana manajemen risiko BEI, deteksi dini sinyal keluar sebelum breakdown, dan integrasi Vercel Cronjob.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
