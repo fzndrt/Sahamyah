@@ -13,9 +13,6 @@ const VERCEL_JSON_SNIPPET = `{
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "functions": {
-    "api/**/*.ts": { "maxDuration": 30 }
-  },
   "crons": [
     {
       "path": "/api/cron/scan",
